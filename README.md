@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Premkumar, currently a student at IIT Delhi interested in AI and DL research. I am going to document my learning journey here. I am currently learning about computer vision.
 <!--
 **Prem-ml-ui/Prem-ml-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
